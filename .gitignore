@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments
+.env
+.venv/
+venv/
+
+# Flask / SQLite
+instance/
+*.db
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
