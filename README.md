@@ -12,8 +12,8 @@ A workout has many exercises through `WorkoutExercise`, and an exercise has many
 
 ## Installation
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/victormuthumbi-creator/workout-api.git
+cd workout-api
 pipenv install
 pipenv shell
 cd server
